@@ -52,6 +52,10 @@ body {
   font-weight: 600;
 }
 
+.navbar a:hover {
+  text-decoration: underline;
+}
+
 .cta .btn-primary {
   background: #e74c3c;
   color: #fff;
