@@ -8,5 +8,15 @@
 <body>
     <h1>Welcome to Privacy & Settings Page!</h1>
     <p>The content of Privacy & Settings page will be added here.</p>
+    <br><br>
+    <h1>Product List</h1>
+    <ul>
+        {% for product in products %}
+            <li>
+                <strong>{{ product.name }}</strong> - ${{ product.price }}<br>
+                <em>{{ product.description }}</em>
+            </li>
+        {% endfor %}
+    </ul>
 </body>
 </html>

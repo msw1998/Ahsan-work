@@ -1,5 +1,7 @@
-from django.shortcuts import render  # type: ignore
-from django.utils.timezone import now  # type: ignore
+from django.shortcuts import render
+from django.utils.timezone import now
+
+from .models import Product
 
 
 # Create your views here.
@@ -16,4 +18,5 @@ def nutrition(request):
     return render(request, 'myApp/nutrition.html')# Nutrition Page
 
 def settings(request):
-    return render(request, 'myApp/settings.html') # Settings Page
+    products = Product.objects.all()  # Fetch all products
+    return render(request, 'myApp/settings.html', {'products': products}) # Settings Page
