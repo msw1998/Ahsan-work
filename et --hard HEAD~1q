@@ -1,0 +1,108 @@
+[33mcommit 232aa1d5dd1b864a343d9625e61b7df7dfaabff7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Mon Mar 10 13:11:44 2025 +0500
+
+    Saving progress before revert
+
+[33mcommit 3d3056124e2083cff5139be0768697c7c25c071e[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Thu Feb 13 16:09:01 2025 +0500
+
+    wooohooo! sqlite3 database added.
+
+[33mcommit 85a510100d07798412de006493550d2bb2564927[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Thu Feb 13 14:27:07 2025 +0500
+
+    Cleaned project
+
+[33mcommit 749b0286096262e7e7f59fe7f08806ff1fb7aaf9[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Mon Feb 10 14:21:24 2025 +0500
+
+    Login & Signup buttons added. Website basic intro pages added with navbar tabs. Brief summary of all the pages added in home page. Styling of home page updated.
+
+[33mcommit 0ee17409394ed1aface80d1f315b8de3d895aabb[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 02:55:29 2025 +0500
+
+    Ahsan First commit done
+
+[33mcommit 641402f7c1b44b2ddbb5c96ed9ff4b87f10a779e[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 02:41:11 2025 +0500
+
+    Testing git pull
+
+[33mcommit b7dab88eb2164b98701659fd8ad68dff381a69e0[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 01:52:48 2025 +0500
+
+    Testing git pull
+
+[33mcommit 7a07c4cbf94c032d1e11395c6817cd6cd488b5a7[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 01:51:34 2025 +0500
+
+    Testing git pull
+
+[33mcommit e6837bd2eea08f84bc12b05e309459ebacd39b26[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 01:46:34 2025 +0500
+
+    Testing git pull
+
+[33mcommit f02baf715f5cfe1ebcc561da2882d26fcf5950de[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Wed Feb 5 01:36:42 2025 +0500
+
+    Testing git pull
+
+[33mcommit 2ee44787778d38811e6e6f139ae482421ab9918c[m
+Author: SadiqR044 <sadiqr044@gmail.com>
+Date:   Mon Feb 3 17:40:00 2025 +0500
+
+    Sadiq's first commit
+
+[33mcommit 8e1852cdec3bb2733d840b4a00f50ee604509fb6[m
+Author: msw1998 <msw7798@gmail.com>
+Date:   Mon Feb 3 17:07:28 2025 +0500
+
+    Updated index.html
+
+[33mcommit 87e3b7b0ef27067df43f0ee61fd6df5b507658c1[m
+Author: msw1998 <msw7798@gmail.com>
+Date:   Sat Feb 1 12:35:29 2025 +0500
+
+    Updated requirements.txt
+
+[33mcommit dfccac8bb0bc509d7b6e5727c5ad5f673403f674[m
+Author: msw1998 <msw7798@gmail.com>
+Date:   Sat Feb 1 12:34:08 2025 +0500
+
+    Added requirements.txt
+
+[33mcommit ba8dd7a66154386a70e1aec2848aac644eb1e631[m
+Author: msw1998 <msw7798@gmail.com>
+Date:   Sat Feb 1 12:20:48 2025 +0500
+
+    Initial commit 2
+
+[33mcommit 3a8dda4c8f9ac1e080ab3c8e2021fd71dc40afed[m
+Merge: 8e424e4 a77da32
+Author: msw1998 <msw7798@gmail.com>
+Date:   Sat Feb 1 12:19:18 2025 +0500
+
+    Merge branch 'main' of https://github.com/msw1998/Ahsan-work
+
+[33mcommit 8e424e4c0f06ca2f045d441f29ab2d0954b42c9a[m
+Author: msw1998 <msw7798@gmail.com>
+Date:   Sat Feb 1 12:16:38 2025 +0500
+
+    Initial commit: Added Django project files
+
+[33mcommit a77da32b24abab98bea4d5a18b8e16fa6add48f3[m
+Author: MSW <30842875+msw1998@users.noreply.github.com>
+Date:   Sat Feb 1 12:15:05 2025 +0500
+
+    Initial commit
